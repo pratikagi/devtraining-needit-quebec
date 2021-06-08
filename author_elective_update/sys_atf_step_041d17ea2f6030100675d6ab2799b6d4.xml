@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Log">8c7c97aa2f6030100675d6ab2799b67d</copied_from>
+        <description>Log: test is expected to fail.</description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 06:33:58</sys_created_on>
+        <sys_id>041d17ea2f6030100675d6ab2799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_041d17ea2f6030100675d6ab2799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 06:33:58</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Past copy">3b0dd3ea2f6030100675d6ab2799b621</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=041d17ea2f6030100675d6ab2799b6d4"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>041d17ea2f6030100675d6ab2799b6d4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 06:33:58</sys_created_on>
+        <sys_id>cc1d17ea2f6030100675d6ab2799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 06:33:58</sys_updated_on>
+        <value>test is expected to fail.</value>
+        <variable display_value="Log">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>67826ea6db0d73c452cec597059619f9</instance_id>
+        <instance_name>dev84236</instance_name>
+        <name>sys_atf_step_041d17ea2f6030100675d6ab2799b6d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Log">8c7c97aa2f6030100675d6ab2799b67d</copied_from><description>Log: test is expected to fail.</description><display_name>Log</display_name><inputs/><mugshots_cache_json/><notes/><order>4</order><snapshot/><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-08 06:33:58</sys_created_on><sys_id>041d17ea2f6030100675d6ab2799b6d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_041d17ea2f6030100675d6ab2799b6d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-08 06:33:58</sys_updated_on><table/><test display_value="When needed - Past copy">3b0dd3ea2f6030100675d6ab2799b621</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=041d17ea2f6030100675d6ab2799b6d4"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>041d17ea2f6030100675d6ab2799b6d4</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-08 06:33:58</sys_created_on><sys_id>cc1d17ea2f6030100675d6ab2799b6d4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-08 06:33:58</sys_updated_on><value>test is expected to fail.</value><variable display_value="Log">523c79985f30220012b44adb7f46663a</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>1213354028</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>5815dd852fa8b0100675d6ab2799b668</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 06:33:58</sys_created_on>
+        <sys_id>0c1d17ea2f6030100675d6ab2799b6d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179ea53e9c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 06:33:58</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>441d17ea1c6030100435b0d5306da4d6</update_guid>
+        <update_guid_history>441d17ea1c6030100435b0d5306da4d6:1213354028</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 06:43:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>9a0a14132c9044d295faed5aecbb88f1</sys_id>
+        <sys_metadata>041d17ea2f6030100675d6ab2799b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_041d17ea2f6030100675d6ab2799b6d4</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_041d17ea2f6030100675d6ab2799b6d4">0c1d17ea2f6030100675d6ab2799b6d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 06:43:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
